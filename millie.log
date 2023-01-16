@@ -1,0 +1,28 @@
+2023-01-16 at 10:05:37 | INFO | Enabled logging intro userver.log file.
+2023-01-16 at 10:05:37 | INFO | Using 3.8.10 version of Python.
+2023-01-16 at 10:05:37 | INFO | cryptg detected, it will be used for encryption
+2023-01-16 at 10:05:38 | INFO | Loaded config.yml
+2023-01-16 at 10:05:38 | INFO | 
+            ----------------------------------------------------------------------
+                Deploying KEMZYX! Visit @CCXEN_REUP for updates!!
+            ----------------------------------------------------------------------
+
+2023-01-16 at 10:05:38 | INFO | Starting client
+2023-01-16 at 10:05:38 | INFO | Connecting to 91.108.56.124:443/TcpFull...
+2023-01-16 at 10:05:38 | INFO | Connection to 91.108.56.124:443/TcpFull complete!
+2023-01-16 at 10:05:38 | INFO | Logged In as Martin
+2023-01-16 at 10:05:38 | INFO | Using DC 5
+2023-01-16 at 10:05:38 | INFO | Starting client
+2023-01-16 at 10:05:38 | INFO | Connecting to 149.154.167.51:443/TcpFull...
+2023-01-16 at 10:05:38 | INFO | Connection to 149.154.167.51:443/TcpFull complete!
+2023-01-16 at 10:05:40 | INFO | Phone migrated to 5
+2023-01-16 at 10:05:40 | INFO | Reconnecting to new data center 5
+2023-01-16 at 10:05:40 | INFO | Disconnecting from 149.154.167.51:443/TcpFull...
+2023-01-16 at 10:05:40 | INFO | Disconnection from 149.154.167.51:443/TcpFull complete!
+2023-01-16 at 10:05:40 | INFO | Connecting to 91.108.56.124:443/TcpFull...
+2023-01-16 at 10:05:41 | INFO | Connection to 91.108.56.124:443/TcpFull complete!
+2023-01-16 at 10:05:41 | INFO | Logged In as Roxy Checker
+2023-01-16 at 10:05:41 | INFO | Using DC 5
+2023-01-16 at 10:05:41 | INFO | Bot Username: @RoxyChk17_Bot
+2023-01-16 at 10:05:41 | INFO | Bot Full Name: Roxy Checker
+2023-01-16 at 10:05:41 | INFO | Bot Id: 5609741470
